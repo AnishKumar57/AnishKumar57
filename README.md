@@ -12,17 +12,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on [CRM App](https://github.com/AnishKumar57/crmApp)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AnishKumar57](https://github.com/AnishKumar57)
-
-- 💬 Ask me about **MERN, Java, MySQL**
-
-- 📫 How to reach me **akjnv540@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+🔭 I’m currently working on [CRM App](https://github.com/AnishKumar57/crmApp)
+🌱 I’m currently learning **Next.js**
+👨‍💻 All of my projects are available at [https://github.com/AnishKumar57](https://github.com/AnishKumar57)
+💬 Ask me about **MERN, Java, MySQL**
+📫 How to reach me **akjnv540@gmail.com**
+⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
