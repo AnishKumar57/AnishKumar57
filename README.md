@@ -1,5 +1,5 @@
 
-![Header](../Downloads/github-header-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
 <h3 align="center">A passionate frontend developer from Delhi, India</h3>
